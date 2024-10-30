@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonifreplai1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="antibrop instancia 10000" x="0" y="0" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10001" x="332" y="0" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10002" x="664" y="0" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10003" x="664" y="0" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10004" x="0" y="172" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10005" x="332" y="172" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10006" x="664" y="172" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10007" x="0" y="344" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10008" x="332" y="344" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10009" x="664" y="344" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10010" x="664" y="344" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10011" x="0" y="516" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10012" x="332" y="516" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10013" x="664" y="516" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10014" x="0" y="688" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10015" x="332" y="688" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10016" x="664" y="688" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10017" x="664" y="688" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10018" x="0" y="860" width="332" height="172"/>
+	<SubTexture name="antibrop instancia 10019" x="0" y="860" width="332" height="172"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LOGO ANIMADO 69.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LOGO ANIMADO 690000" x="2" y="2" width="1508" height="749" frameX="-21" frameY="-7" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690001" x="2" y="2" width="1508" height="749" frameX="-21" frameY="-7" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690002" x="1513" y="2" width="1547" height="764"/>
+	<SubTexture name="LOGO ANIMADO 690003" x="2" y="769" width="1545" height="764" frameX="-1" frameY="0" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690004" x="1550" y="769" width="1343" height="715" frameX="-111" frameY="-25" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690005" x="2" y="1536" width="1344" height="715" frameX="-110" frameY="-25" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690006" x="1349" y="1536" width="1160" height="547" frameX="-209" frameY="-110" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690007" x="2512" y="1536" width="1160" height="546" frameX="-210" frameY="-110" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690008" x="2" y="2254" width="1171" height="565" frameX="-204" frameY="-101" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690009" x="1176" y="2254" width="1171" height="565" frameX="-204" frameY="-101" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690010" x="1176" y="2254" width="1171" height="565" frameX="-204" frameY="-101" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690011" x="2350" y="2254" width="1171" height="565" frameX="-204" frameY="-101" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690012" x="2350" y="2254" width="1171" height="565" frameX="-204" frameY="-101" frameWidth="1547" frameHeight="764"/>
+	<SubTexture name="LOGO ANIMADO 690013" x="2" y="2254" width="1171" height="565" frameX="-204" frameY="-101" frameWidth="1547" frameHeight="764"/>
+</TextureAtlas>

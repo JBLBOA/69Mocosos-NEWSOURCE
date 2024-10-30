@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thegang.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backgroundguys0000" x="0" y="0" width="1557" height="642" frameX="0" frameY="-15" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0001" x="0" y="0" width="1557" height="642" frameX="0" frameY="-15" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0002" x="0" y="0" width="1557" height="642" frameX="0" frameY="-15" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0003" x="1557" y="0" width="1559" height="647" frameX="0" frameY="-10" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0004" x="0" y="647" width="1559" height="647" frameX="0" frameY="-10" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0005" x="1559" y="647" width="1559" height="647" frameX="0" frameY="-10" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0006" x="0" y="1294" width="1561" height="657" frameX="0" frameY="0" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0007" x="0" y="1294" width="1561" height="657" frameX="0" frameY="0" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0008" x="1561" y="1294" width="1561" height="657" frameX="0" frameY="0" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0009" x="0" y="1951" width="1564" height="657"/>
+	<SubTexture name="backgroundguys0010" x="0" y="1951" width="1564" height="657"/>
+	<SubTexture name="backgroundguys0011" x="0" y="1951" width="1564" height="657"/>
+	<SubTexture name="backgroundguys0012" x="1564" y="1951" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0013" x="1564" y="1951" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0014" x="0" y="2608" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0015" x="1563" y="2608" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0016" x="1563" y="2608" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0017" x="1563" y="2608" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0018" x="0" y="3264" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0019" x="0" y="3264" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0020" x="0" y="3264" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0021" x="0" y="3264" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0022" x="0" y="3264" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0023" x="0" y="3264" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+	<SubTexture name="backgroundguys0024" x="0" y="3264" width="1563" height="656" frameX="0" frameY="-1" frameWidth="1564" frameHeight="657"/>
+</TextureAtlas>

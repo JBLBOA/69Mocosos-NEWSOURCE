@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonifreplai2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gian.ogg instancia 10000" x="0" y="0" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10001" x="333" y="0" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10002" x="666" y="0" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10003" x="0" y="238" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10004" x="333" y="238" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10005" x="666" y="238" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10006" x="0" y="476" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10007" x="333" y="476" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10008" x="666" y="476" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10009" x="0" y="714" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10010" x="333" y="714" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10011" x="666" y="714" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10012" x="0" y="952" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10013" x="333" y="952" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10014" x="666" y="952" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10015" x="0" y="1190" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10016" x="333" y="1190" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10017" x="666" y="1190" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10018" x="0" y="952" width="333" height="238"/>
+	<SubTexture name="gian.ogg instancia 10019" x="333" y="952" width="333" height="238"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thegang2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="THEGANG20000" x="0" y="0" width="1845" height="408" frameX="0" frameY="-10" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20001" x="0" y="0" width="1845" height="408" frameX="0" frameY="-10" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20002" x="0" y="0" width="1845" height="408" frameX="0" frameY="-10" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20003" x="0" y="0" width="1845" height="408" frameX="0" frameY="-10" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20004" x="0" y="408" width="1848" height="412" frameX="-2" frameY="-6" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20005" x="0" y="408" width="1848" height="412" frameX="-2" frameY="-6" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20006" x="0" y="408" width="1848" height="412" frameX="-2" frameY="-6" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20007" x="0" y="408" width="1848" height="412" frameX="-2" frameY="-6" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20008" x="0" y="820" width="1850" height="417" frameX="-3" frameY="-1" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20009" x="0" y="820" width="1850" height="417" frameX="-3" frameY="-1" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20010" x="0" y="820" width="1850" height="417" frameX="-3" frameY="-1" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20011" x="0" y="1237" width="1848" height="417" frameX="-3" frameY="-1" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20012" x="0" y="1654" width="1848" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20013" x="0" y="1654" width="1848" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20014" x="0" y="1654" width="1848" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20015" x="0" y="2072" width="1848" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20016" x="0" y="2072" width="1848" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20017" x="0" y="2490" width="1847" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20018" x="0" y="2490" width="1847" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20019" x="0" y="2490" width="1847" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20020" x="0" y="2490" width="1847" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20021" x="0" y="2490" width="1847" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20022" x="0" y="2490" width="1847" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20023" x="0" y="2490" width="1847" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+	<SubTexture name="THEGANG20024" x="0" y="2490" width="1847" height="418" frameX="-3" frameY="0" frameWidth="1853" frameHeight="418"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logo 69 mocosos.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LOGO0000" x="2" y="2" width="788" height="650" frameX="-16" frameY="-10" frameWidth="820" frameHeight="669"/>
+	<SubTexture name="LOGO0001" x="2" y="2" width="788" height="650" frameX="-16" frameY="-10" frameWidth="820" frameHeight="669"/>
+	<SubTexture name="LOGO0002" x="793" y="2" width="820" height="669"/>
+	<SubTexture name="LOGO0003" x="793" y="2" width="820" height="669"/>
+	<SubTexture name="LOGO0004" x="2" y="674" width="652" height="566" frameX="-84" frameY="-52" frameWidth="820" frameHeight="669"/>
+	<SubTexture name="LOGO0005" x="2" y="674" width="652" height="566" frameX="-84" frameY="-52" frameWidth="820" frameHeight="669"/>
+	<SubTexture name="LOGO0006" x="657" y="674" width="684" height="581" frameX="-68" frameY="-45" frameWidth="820" frameHeight="669"/>
+	<SubTexture name="LOGO0007" x="657" y="674" width="684" height="581" frameX="-68" frameY="-45" frameWidth="820" frameHeight="669"/>
+	<SubTexture name="LOGO0008" x="657" y="674" width="684" height="581" frameX="-68" frameY="-45" frameWidth="820" frameHeight="669"/>
+	<SubTexture name="LOGO0009" x="657" y="674" width="684" height="581" frameX="-68" frameY="-45" frameWidth="820" frameHeight="669"/>
+	<SubTexture name="LOGO0010" x="657" y="674" width="684" height="581" frameX="-68" frameY="-45" frameWidth="820" frameHeight="669"/>
+	<SubTexture name="LOGO0011" x="657" y="674" width="684" height="581" frameX="-68" frameY="-45" frameWidth="820" frameHeight="669"/>
+	<SubTexture name="LOGO0012" x="657" y="674" width="684" height="581" frameX="-68" frameY="-45" frameWidth="820" frameHeight="669"/>
+	<SubTexture name="LOGO0013" x="657" y="674" width="684" height="581" frameX="-68" frameY="-45" frameWidth="820" frameHeight="669"/>
+</TextureAtlas>

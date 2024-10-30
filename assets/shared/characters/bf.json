@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-30,
+				-190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLEBEFE instancia 1",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				-10,
+				-284
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BEFEDOWN instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				-8,
+				-283
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BEFEDOWNMISS instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				2,
+				-74
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BEFEUP instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				2,
+				-74
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BEFEUPMISS instancia 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				36,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BEFERIGHT instancia 1"
+		},
+		{
+			"offsets": [
+				76,
+				-196
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BEFELEFT instancia 1"
+		},
+		{
+			"offsets": [
+				27,
+				-181
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BEFERIGHTMISS instancia 1"
+		},
+		{
+			"offsets": [
+				77,
+				-191
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BEFELEFTMISS instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND",
+	"position": [
+		-275,
+		-550
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		30,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": true
+}

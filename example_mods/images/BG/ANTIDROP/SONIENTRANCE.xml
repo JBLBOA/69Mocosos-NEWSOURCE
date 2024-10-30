@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SONIENTRANCE.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ENTRANCE0000" x="0" y="0" width="242" height="710" frameX="-9" frameY="0" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0001" x="0" y="0" width="242" height="710" frameX="-9" frameY="0" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0002" x="242" y="0" width="210" height="713" frameX="-26" frameY="-134" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0003" x="452" y="0" width="189" height="714" frameX="-32" frameY="-289" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0004" x="641" y="0" width="253" height="711" frameX="-8" frameY="-406" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0005" x="894" y="0" width="252" height="711" frameX="0" frameY="-452" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0006" x="894" y="0" width="252" height="711" frameX="0" frameY="-579" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0007" x="1146" y="0" width="253" height="712" frameX="0" frameY="-558" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0008" x="1146" y="0" width="253" height="712" frameX="0" frameY="-558" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0009" x="1399" y="0" width="249" height="710" frameX="-1" frameY="-551" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0010" x="1399" y="0" width="249" height="710" frameX="-1" frameY="-547" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0011" x="0" y="0" width="242" height="710" frameX="-3" frameY="-547" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0012" x="0" y="0" width="242" height="710" frameX="-3" frameY="-547" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0013" x="1648" y="0" width="228" height="713" frameX="-14" frameY="-547" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0014" x="1648" y="0" width="228" height="713" frameX="-14" frameY="-547" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0015" x="0" y="714" width="246" height="712" frameX="-7" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0016" x="0" y="714" width="246" height="712" frameX="-7" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0017" x="246" y="714" width="236" height="713" frameX="-14" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0018" x="246" y="714" width="236" height="713" frameX="-14" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0019" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0020" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0021" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0022" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0023" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0024" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0025" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0026" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0027" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0028" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0029" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0030" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0031" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0032" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0033" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0034" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0035" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+	<SubTexture name="ENTRANCE0036" x="482" y="714" width="243" height="712" frameX="-8" frameY="-548" frameWidth="261" frameHeight="1290"/>
+</TextureAtlas>
